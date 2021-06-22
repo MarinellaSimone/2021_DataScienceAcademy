@@ -1,2 +1,2 @@
 # 2021_DataScienceAcademy
-Collection of Notebooks in Python produced while attending the Master in Data Science.
+This is a collection of Notebooks produced with Python while attending the Master in Data Science.
