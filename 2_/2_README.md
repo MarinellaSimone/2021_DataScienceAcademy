@@ -1,4 +1,3 @@
-## RAIN IN AUSTRALIA
+## HEART DISEASE UCI 
 
-This is the second work of the master. Dataset: Rain in Australia from Kaggle. Main topics: Data preprocessing, Outlier detection, Feature engineering, Feature selection, Imbalanced dataset, Handling missing values.
-
+This is the third work of the master. Dataset: Heart Disease UCI from Kaggle. Main topics: Supervised learning for classification, Logistic Regression, Decision Trees, Bagging, Boosting, Random Forest, XGBoost.
